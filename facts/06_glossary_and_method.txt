@@ -1,0 +1,25 @@
+GLOSSARY AND METHOD
+===================
+
+Plain-English terms
+===================
+District (zila): the second-level administrative unit of Bangladesh. 64 districts group into 8 divisions.
+Census: a full count of the population, taken roughly every 10 years.
+Density: people per square kilometre = population / area. Shows crowding.
+Growth %: (end / start - 1) x 100. A 100% rise means the population doubled.
+CAGR: compound annual growth rate = (end/start)^(1/years) - 1. The steady yearly rate that gets from start to end.
+Share: a district's population divided by the national total.
+Gini coefficient: 0 = every district same size, 1 = one district has everybody. Used here to measure how unequal
+  district populations are (not income).
+Rank correlation (Spearman): -1 to +1. Measures whether two things rise together, using ranks so giants do not dominate.
+Outlier: a value far from the rest. Here the Tukey rule (above Q3 + 1.5 x IQR) is used.
+Dhaka belt: Dhaka + Gazipur + Narayanganj, three neighbouring districts forming the capital region (our grouping).
+
+Method notes
+============
+- Software: Python (pandas, scipy, matplotlib).
+- National totals are the sum of the 64 districts.
+- Division totals are sums of their districts; division growth rates use the same formulas on those sums.
+- No rows were removed or altered. No imputation was needed.
+- Period lengths of 10, 10 and 11 years are nominal, not exact census dates.
+- All graphs are in the 'graphs' folder; numbered in the order they are discussed.

@@ -1,0 +1,136 @@
+DIVISION SUMMARY
+================
+
+Population by division
+======================
+Division    Districts  Area km2        1991        2001        2011        2022
+----------  ---------  --------  ----------  ----------  ----------  ----------
+Dhaka              13    20,509  24,931,000  30,806,667  37,893,924  45,644,586
+Chattogram         11    33,923  21,865,000  25,505,197  29,553,855  34,178,611
+Rajshahi            8    18,153  14,917,000  17,129,332  19,225,903  20,794,019
+Rangpur             8    16,186  12,583,000  14,484,503  16,412,281  18,020,072
+Khulna             10    22,284  13,243,000  15,418,650  16,309,307  17,813,219
+Mymensingh          4    10,669   9,010,000  10,321,282  11,427,765  12,637,472
+Sylhet              4    12,635   7,150,000   8,307,941  10,296,996  11,415,113
+Barisal             6    13,225   7,757,000   8,549,026   8,652,321   9,325,821
+
+Share, growth and density
+=========================
+Division    Share 1991 %  Share 2022 %  Growth %  People added  CAGR %  Density 2022
+----------  ------------  ------------  --------  ------------  ------  ------------
+Dhaka               22.4          26.9      83.1    20,713,586    1.97         2,226
+Chattogram          19.6          20.1      56.3    12,313,611    1.45         1,008
+Rajshahi            13.4          12.2      39.4     5,877,019    1.08         1,145
+Rangpur             11.3          10.6      43.2     5,437,072    1.17         1,113
+Khulna              11.9          10.5      34.5     4,570,219    0.96           799
+Mymensingh           8.1           7.4      40.3     3,627,472    1.10         1,185
+Sylhet               6.4           6.7      59.7     4,265,113    1.52           903
+Barisal              7.0           5.5      20.2     1,568,821    0.60           705
+
+Observations
+============
+- Dhaka division is both the biggest (26.9% of people) and the biggest gainer: its share rose by 4.5 points, the largest shift of any division.
+- Barisal is the smallest division and the slowest growing (0.60% per year); its share fell from 7.0% to 5.5%.
+- Sylhet and Chattogram grew faster than the national average (1.37% per year) and gained share.
+- Only Dhaka, Chattogram and Sylhet gained share. The other five (Mymensingh, Rangpur, Rajshahi, Khulna, Barisal) lost share:
+  their populations grew, but more slowly than the country as a whole. Barisal lost the most (about 1.5 points), then Khulna (1.4).
+- Dhaka division is the only one with density above 2,000 people per km2 (2,226); Barisal is the least dense division (705).
+
+District lists by division (2022 population, density, growth 1991-2022)
+=======================================================================
+
+Dhaka
+District       Pop 2022  Density  Growth %
+-----------  ----------  -------  --------
+Dhaka        15,210,851   10,390     146.8
+Gazipur       5,433,538    3,009     222.8
+Tangail       4,168,083    1,221      34.1
+Narayanganj   4,035,461    5,900     121.9
+Kishoreganj   3,373,219    1,254      41.3
+Narsingdi     2,667,968    2,320      56.0
+Faridpur      2,232,772    1,088      43.2
+Munshiganj    1,677,941    1,671      36.5
+Manikganj     1,608,372    1,162      32.3
+Gopalganj     1,336,907      910      21.9
+Shariatpur    1,336,396    1,138      35.5
+Madaripur     1,334,811    1,185      20.7
+Rajbari       1,228,267    1,125      41.8
+
+Chattogram
+District       Pop 2022  Density  Growth %
+------------  ---------  -------  --------
+Chattogram    9,439,076    1,787      64.3
+Cumilla       6,394,875    2,033      50.0
+Noakhali      3,732,042    1,012      59.1
+Brahmanbaria  3,403,786    1,810      50.1
+Cox's Bazar   2,906,281    1,166      93.5
+Chandpur      2,713,247    1,649      26.2
+Lakshmipur    1,994,930    1,385      43.4
+Feni          1,697,379    1,715      46.6
+Khagrachhari    735,116      267     100.9
+Rangamati       666,627      109      55.0
+Bandarban       495,252      110     101.3
+
+Rajshahi
+District           Pop 2022  Density  Growth %
+----------------  ---------  -------  --------
+Bogra             3,815,192    1,316      36.3
+Sirajganj         3,430,443    1,428      44.5
+Rajshahi          2,978,156    1,228      49.8
+Pabna             2,972,654    1,251      47.4
+Naogaon           2,844,921      828      26.4
+Natore            1,900,213    1,000      30.6
+Chapai Nawabganj  1,875,290    1,101      52.3
+Jaipurhat           977,150      966      21.8
+
+Rangpur
+District      Pop 2022  Density  Growth %
+-----------  ---------  -------  --------
+Dinajpur     3,392,251      985      43.1
+Rangpur      3,243,247    1,351      42.8
+Gaibandha    2,621,756    1,240      28.5
+Kurigram     2,383,268    1,062      41.9
+Nilphamari   2,141,180    1,384      51.2
+Thakurgaon   1,569,529      881      48.2
+Lalmonirhat  1,461,589    1,172      46.3
+Panchagarh   1,207,252      859      61.8
+
+Khulna
+District    Pop 2022  Density  Growth %
+---------  ---------  -------  --------
+Jessore    3,146,317    1,207      43.5
+Khulna     2,673,002      608      25.4
+Satkhira   2,246,691      589      35.3
+Kushtia    2,198,731    1,367      40.8
+Jhenaidah  2,051,607    1,044      44.5
+Bagerhat   1,649,874      417      10.8
+Chuadanga  1,262,205    1,075      49.7
+Magura     1,056,683    1,017      40.5
+Narail       806,662      833      18.3
+Meherpur     721,447      959      41.2
+
+Mymensingh
+District     Pop 2022  Density  Growth %
+----------  ---------  -------  --------
+Mymensingh  6,097,814    1,387      48.8
+Jamalpur    2,583,984    1,222      33.0
+Netrakona   2,403,205      860      34.2
+Sherpur     1,552,469    1,137      31.7
+
+Sylhet
+District      Pop 2022  Density  Growth %
+-----------  ---------  -------  --------
+Sylhet       3,990,003    1,156      74.8
+Sunamganj    2,788,358      744      54.7
+Habiganj     2,440,151      925      51.4
+Moulvibazar  2,196,601      785      51.1
+
+Barisal
+District     Pop 2022  Density  Growth %
+----------  ---------  -------  --------
+Barishal    2,634,203      946      14.6
+Bhola       1,980,452      582      29.3
+Patuakhali  1,770,096      550      33.8
+Pirojpur    1,227,915      961      11.2
+Barguna     1,035,596      566      28.6
+Jhalokati     677,559      958      -2.4

@@ -1,0 +1,133 @@
+DISTRICT RANKINGS AND OUTLIERS
+==============================
+
+All districts ranked by 2022 population
+=======================================
+Rank          District    Division    Pop 2022  Share %  Density  Rank 1991
+----  ----------------  ----------  ----------  -------  -------  ---------
+1                Dhaka       Dhaka  15,210,851     8.96   10,390          1
+2           Chattogram  Chattogram   9,439,076     5.56    1,787          2
+3              Cumilla  Chattogram   6,394,875     3.77    2,033          3
+4           Mymensingh  Mymensingh   6,097,814     3.59    1,387          4
+5              Gazipur       Dhaka   5,433,538     3.20    3,009         27
+6              Tangail       Dhaka   4,168,083     2.45    1,221          5
+7          Narayanganj       Dhaka   4,035,461     2.38    5,900         23
+8               Sylhet      Sylhet   3,990,003     2.35    1,156         12
+9                Bogra    Rajshahi   3,815,192     2.25    1,316          6
+10            Noakhali  Chattogram   3,732,042     2.20    1,012         10
+11           Sirajganj    Rajshahi   3,430,443     2.02    1,428          8
+12        Brahmanbaria  Chattogram   3,403,786     2.00    1,810         14
+13            Dinajpur     Rangpur   3,392,251     2.00      985          9
+14         Kishoreganj       Dhaka   3,373,219     1.99    1,254          7
+15             Rangpur     Rangpur   3,243,247     1.91    1,351         13
+16             Jessore      Khulna   3,146,317     1.85    1,207         16
+17            Rajshahi    Rajshahi   2,978,156     1.75    1,228         21
+18               Pabna    Rajshahi   2,972,654     1.75    1,251         20
+19         Cox's Bazar  Chattogram   2,906,281     1.71    1,166         34
+20             Naogaon    Rajshahi   2,844,921     1.68      828         15
+21           Sunamganj      Sylhet   2,788,358     1.64      744         24
+22            Chandpur  Chattogram   2,713,247     1.60    1,649         17
+23              Khulna      Khulna   2,673,002     1.57      608         18
+24           Narsingdi       Dhaka   2,667,968     1.57    2,320         26
+25            Barishal     Barisal   2,634,203     1.55      946         11
+26           Gaibandha     Rangpur   2,621,756     1.54    1,240         19
+27            Jamalpur  Mymensingh   2,583,984     1.52    1,222         22
+28            Habiganj      Sylhet   2,440,151     1.44      925         30
+29           Netrakona  Mymensingh   2,403,205     1.42      860         25
+30            Kurigram     Rangpur   2,383,268     1.40    1,062         28
+31            Satkhira      Khulna   2,246,691     1.32      589         29
+32            Faridpur       Dhaka   2,232,772     1.31    1,088         32
+33             Kushtia      Khulna   2,198,731     1.29    1,367         31
+34         Moulvibazar      Sylhet   2,196,601     1.29      785         37
+35          Nilphamari     Rangpur   2,141,180     1.26    1,384         39
+36           Jhenaidah      Khulna   2,051,607     1.21    1,044         38
+37          Lakshmipur  Chattogram   1,994,930     1.17    1,385         40
+38               Bhola     Barisal   1,980,452     1.17      582         33
+39              Natore    Rajshahi   1,900,213     1.12    1,000         36
+40    Chapai Nawabganj    Rajshahi   1,875,290     1.10    1,101         42
+41          Patuakhali     Barisal   1,770,096     1.04      550         41
+42                Feni  Chattogram   1,697,379     1.00    1,715         46
+43          Munshiganj       Dhaka   1,677,941     0.99    1,671         43
+44            Bagerhat      Khulna   1,649,874     0.97      417         35
+45           Manikganj       Dhaka   1,608,372     0.95    1,162         44
+46          Thakurgaon     Rangpur   1,569,529     0.92      881         50
+47             Sherpur  Mymensingh   1,552,469     0.91    1,137         45
+48         Lalmonirhat     Rangpur   1,461,589     0.86    1,172         51
+49           Gopalganj       Dhaka   1,336,907     0.79      910         49
+50          Shariatpur       Dhaka   1,336,396     0.79    1,138         52
+51           Madaripur       Dhaka   1,334,811     0.79    1,185         47
+52           Chuadanga      Khulna   1,262,205     0.74    1,075         54
+53             Rajbari       Dhaka   1,228,267     0.72    1,125         53
+54            Pirojpur     Barisal   1,227,915     0.72      961         48
+55          Panchagarh     Rangpur   1,207,252     0.71      859         58
+56              Magura      Khulna   1,056,683     0.62    1,017         57
+57             Barguna     Barisal   1,035,596     0.61      566         55
+58           Jaipurhat    Rajshahi     977,150     0.58      966         56
+59              Narail      Khulna     806,662     0.47      833         60
+60        Khagrachhari  Chattogram     735,116     0.43      267         63
+61            Meherpur      Khulna     721,447     0.42      959         61
+62           Jhalokati     Barisal     677,559     0.40      958         59
+63           Rangamati  Chattogram     666,627     0.39      109         62
+64           Bandarban  Chattogram     495,252     0.29      110         64
+
+Biggest rank climbers, 1991 -> 2022
+===================================
+District     Rank 1991  Rank 2022  Places gained
+-----------  ---------  ---------  -------------
+Gazipur             27          5            +22
+Narayanganj         23          7            +16
+Cox's Bazar         34         19            +15
+Feni                46         42             +4
+Rajshahi            21         17             +4
+Sylhet              12          8             +4
+
+Biggest rank fallers, 1991 -> 2022
+==================================
+District     Rank 1991  Rank 2022  Places lost
+-----------  ---------  ---------  -----------
+Barishal            11         25          -14
+Bagerhat            35         44           -9
+Kishoreganj          7         14           -7
+Gaibandha           19         26           -7
+Pirojpur            48         54           -6
+Jamalpur            22         27           -5
+
+Density ranking: 10 densest and 10 least dense (2022)
+=====================================================
+District      Density 2022  Density 1991
+------------  ------------  ------------
+Dhaka               10,390         4,210
+Narayanganj          5,900         2,659
+Gazipur              3,009           932
+Narsingdi            2,320         1,487
+Cumilla              2,033         1,355
+Brahmanbaria         1,810         1,206
+Chattogram           1,787         1,087
+Feni                 1,715         1,170
+Munshiganj           1,671         1,224
+Chandpur             1,649         1,307
+
+District      Density 2022  Density 1991
+------------  ------------  ------------
+Rangamati              109            70
+Bandarban              110            55
+Khagrachhari           267           133
+Bagerhat               417           376
+Patuakhali             550           411
+Barguna                566           440
+Bhola                  582           450
+Satkhira               589           435
+Khulna                 608           485
+Sunamganj              744           481
+
+Statistical outliers (Tukey rule: beyond 1.5 x IQR above Q3)
+============================================================
+2022 population fence = 5,404,863. Outliers: Dhaka (15,210,851), Chattogram (9,439,076), Cumilla (6,394,875), Mymensingh (6,097,814), Gazipur (5,433,538)
+Area fence = 5,333 km2. Outliers: Rangamati (6,116)
+Growth-rate outliers (|z| > 2 on 1991-2022 CAGR): Gazipur (z=+4.3), Dhaka (z=+2.9), Narayanganj (z=+2.3), Jhalokati (z=-2.1)
+Dhaka and Gazipur are not just big, they are unusual in growth. They are real, not data errors (verified against totals).
+
+Distribution shape (2022 populations)
+=====================================
+Skewness = 3.49 (strongly right-skewed); mean 2,653,577 vs median 2,215,752.
+Smallest 495,252, largest 15,210,851; 25th pct 1,430,418, 75th pct 3,020,196.

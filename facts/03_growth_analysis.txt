@@ -1,0 +1,104 @@
+GROWTH ANALYSIS
+===============
+CAGR = compound annual growth rate (the steady yearly % that links start to end).
+Intervals used: 1991-2001 = 10 yrs, 2001-2011 = 10 yrs, 2011-2022 = 11 yrs.
+
+National growth by period
+=========================
+Period     People added  Total %  National CAGR %  Avg district CAGR %  Median district CAGR %
+---------  ------------  -------  ---------------  -------------------  ----------------------
+1991-2001    19,066,598     17.1             1.59                 1.49                    1.43
+2001-2011    19,249,754     14.7             1.39                 1.17                    1.10
+2011-2022    20,056,561     13.4             1.15                 0.99                    0.93
+1991-2022    58,372,913     52.4             1.37                 1.21                    1.16
+
+Reading: the yearly growth rate fell from about 1.6% to 1.1%, yet each period still added ~19-20 million people.
+The reason: the base keeps getting bigger, so a smaller % still means a similar headcount.
+
+Districts where population FELL
+===============================
+2001-2011 (6 districts):
+District   Division       2001       2011  Change %
+---------  --------  ---------  ---------  --------
+Bagerhat     Khulna  1,620,216  1,534,012     -5.32
+Khulna       Khulna  2,520,962  2,407,679     -4.49
+Jhalokati   Barisal    726,182    709,914     -2.24
+Barishal    Barisal  2,465,249  2,414,729     -2.05
+Pirojpur    Barisal  1,161,548  1,157,215     -0.37
+Gopalganj     Dhaka  1,218,789  1,218,319     -0.04
+Note: five of the six are in Barisal and Khulna divisions (the south/south-west); Gopalganj is in Dhaka division but borders them.
+2011-2022: Jhalokati (-4.6%).
+Over the whole period 1991-2022 only Jhalokati ended below its 1991 level (-2.4%).
+The data do not say why; out-migration, lower birth rates or boundary changes are all possibilities to check elsewhere.
+
+Top 10 fastest growing districts, 1991-2022
+===========================================
+District        Division       1991        2022  Total %  CAGR %
+------------  ----------  ---------  ----------  -------  ------
+Gazipur            Dhaka  1,683,000   5,433,538    222.8    3.85
+Dhaka              Dhaka  6,164,000  15,210,851    146.8    2.96
+Narayanganj        Dhaka  1,819,000   4,035,461    121.9    2.60
+Bandarban     Chattogram    246,000     495,252    101.3    2.28
+Khagrachhari  Chattogram    366,000     735,116    100.9    2.28
+Cox's Bazar   Chattogram  1,502,000   2,906,281     93.5    2.15
+Sylhet            Sylhet  2,282,000   3,990,003     74.8    1.82
+Chattogram    Chattogram  5,744,000   9,439,076     64.3    1.62
+Panchagarh       Rangpur    746,000   1,207,252     61.8    1.56
+Noakhali      Chattogram  2,346,000   3,732,042     59.1    1.51
+
+10 slowest growing districts, 1991-2022
+=======================================
+District     Division       1991       2022  Total %  CAGR %
+---------  ----------  ---------  ---------  -------  ------
+Jhalokati     Barisal    694,000    677,559     -2.4   -0.08
+Bagerhat       Khulna  1,489,000  1,649,874    +10.8    0.33
+Pirojpur      Barisal  1,104,000  1,227,915    +11.2    0.34
+Barishal      Barisal  2,299,000  2,634,203    +14.6    0.44
+Narail         Khulna    682,000    806,662    +18.3    0.54
+Madaripur       Dhaka  1,106,000  1,334,811    +20.7    0.61
+Jaipurhat    Rajshahi    802,000    977,150    +21.8    0.64
+Gopalganj       Dhaka  1,097,000  1,336,907    +21.9    0.64
+Khulna         Khulna  2,131,000  2,673,002    +25.4    0.73
+Chandpur   Chattogram  2,150,000  2,713,247    +26.2    0.75
+
+Biggest absolute gains, 1991-2022 (people added)
+================================================
+District      People added  Total %
+------------  ------------  -------
+Dhaka            9,046,851    146.8
+Gazipur          3,750,538    222.8
+Chattogram       3,695,076     64.3
+Narayanganj      2,216,461    121.9
+Cumilla          2,130,875     50.0
+Mymensingh       2,000,814     48.8
+Sylhet           1,708,003     74.8
+Cox's Bazar      1,404,281     93.5
+Noakhali         1,386,042     59.1
+Brahmanbaria     1,135,786     50.1
+
+These 10 districts account for 48.8% of national growth.
+
+Growth rate by division (CAGR %)
+================================
+Division    1991-2001  2001-2011  2011-2022  1991-2022
+----------  ---------  ---------  ---------  ---------
+Dhaka            2.14       2.09       1.71       1.97
+Sylhet           1.51       2.17       0.94       1.52
+Chattogram       1.55       1.48       1.33       1.45
+Rangpur          1.42       1.26       0.85       1.17
+Mymensingh       1.37       1.02       0.92       1.10
+Rajshahi         1.39       1.16       0.72       1.08
+Khulna           1.53       0.56       0.81       0.96
+Barisal          0.98       0.12       0.68       0.60
+
+What goes with growth? (rank correlations across 64 districts)
+==============================================================
+Density in 1991 vs growth 1991-2022 (Spearman): -0.00 (p=0.995)
+District size in 1991 vs growth 1991-2022:       +0.14 (p=0.254)
+Year established vs growth 1991-2022:            -0.20 (p=0.105)
+Log-log slope, area vs 2022 population:           0.43 (r=0.36) - population rises less than proportionally with area.
+Interpretation: NONE of these is statistically significant (all p > 0.10). How dense a district was in 1991 told us
+nothing about how fast it grew (rho ~ 0.00); size and age of district are also weak predictors.
+Growth is driven by specific places (the Dhaka belt, the south-eastern hills and coast, Sylhet) rather than by a
+simple density or age rule. Correlation is not causation.
+Growth in 2011-2022 fell below 2001-2011 in 44 of 64 districts, and below 1991-2001 in 54 of 64.

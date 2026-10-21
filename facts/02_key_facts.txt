@@ -1,0 +1,65 @@
+KEY FACTS
+=========
+
+The nation
+==========
+Population 1991: 111,456,000
+Population 2001: 130,522,598
+Population 2011: 149,772,352
+Population 2022: 169,828,913
+Growth 1991-2022: +58,372,913 people (+52.4%), i.e. about 1.5 times as many people.
+Total area: 147,584 km2.  Average density 2022: 1,151 people per km2.
+
+Growth is slowing in rate, not in headcount
+===========================================
+1991-2001: +19,066,598 people, +17.1% in total, 1.59% per year
+2001-2011: +19,249,754 people, +14.7% in total, 1.39% per year
+2011-2022: +20,056,561 people, +13.4% in total, 1.15% per year
+Every census interval adds roughly 19-20 million people, but the yearly growth RATE keeps falling.
+
+Biggest and smallest
+====================
+Most populous district 2022: Dhaka - 15,210,851 people (9.0% of Bangladesh).
+Second: Chattogram (9,439,076). Third: Cumilla (6,394,875).
+Smallest district 2022: Bandarban - 495,252 people.
+Dhaka is 31 times the size of the smallest district and 6.9 times the median district.
+Median district 2022: 2,215,752 people; mean 2,653,577 (mean is higher because a few giants pull it up).
+Largest by area: Rangamati (6,116 km2). Smallest by area: Narayanganj (684 km2).
+
+Concentration around Dhaka
+==========================
+Dhaka district share of the nation: 5.5% (1991) -> 9.0% (2022).
+Dhaka + Gazipur + Narayanganj ('Dhaka belt'): 8.7% -> 14.5% of all people, while holding 2.7% of the land.
+Dhaka belt added 15,013,850 people since 1991 = 25.7% of ALL national growth.
+Top-5 districts' share: 21.0% -> 25.1%.  Top-10: 32.0% -> 36.7%.
+Inequality between districts (Gini of population): 0.302 -> 0.352 (higher = more unequal).
+
+Density (people per km2, 2022)
+==============================
+Densest: Dhaka 10,390; Narayanganj 5,900; Gazipur 3,009.
+Least dense: Rangamati 109; Bandarban 110.
+Dhaka is 95 times denser than the least dense district.
+Dhaka's density rose from 4,210 to 10,390 per km2 in 31 years.
+
+Fastest growth 1991-2022
+========================
+1. Gazipur: +223% (3.85% per year)
+2. Dhaka: +147% (2.96% per year)
+3. Narayanganj: +122% (2.60% per year)
+4. Bandarban: +101% (2.28% per year)
+5. Khagrachhari: +101% (2.28% per year)
+
+Slowest growth / decline 1991-2022
+==================================
+1. Jhalokati: -2.4% (-0.08% per year)
+2. Bagerhat: +10.8% (0.33% per year)
+3. Pirojpur: +11.2% (0.34% per year)
+4. Barishal: +14.6% (0.44% per year)
+5. Narail: +18.3% (0.54% per year)
+Only 1 district has fewer people in 2022 than in 1991: Jhalokati.
+
+Divisions
+=========
+Largest division 2022: Dhaka (45,644,586, 26.9% of nation).
+Fastest-growing division: Dhaka (1.97% per year).
+Slowest-growing division: Barisal (0.60% per year).

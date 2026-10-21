@@ -1,0 +1,87 @@
+DATA INSPECTION REPORT
+File: city_population.csv
+========================
+
+1. Structure
+============
+Rows (records): 64
+Columns: 31
+Granularity: ONE ROW PER DISTRICT (zila) of Bangladesh. Despite the file name 'city_population',
+the rows are districts, not cities. The 'Native' column ends in 'jela' (district) in Bangla.
+Time dimension: wide format, four census snapshots (1991, 2001, 2011, 2022) as separate columns.
+
+2. Columns
+==========
+Column            Type  Unique                            Meaning
+---------------  -----  ------  ---------------------------------
+Name               str      64            District name (English)
+Abbr.              str      64             3-letter district code
+Division           str       8        Administrative division (8)
+Established      int64      18  Year the district was established
+Native             str      64     District name in Bangla script
+Area (km2)       int64      62     Land area in square kilometres
+Population_1991  int64      64             Census population 1991
+Population_2001  int64      64             Census population 2001
+Population_2011  int64      64             Census population 2011
+Population_2022  int64      64             Census population 2022
+
+3. Completeness and uniqueness
+==============================
+Missing values (all columns): 0
+Fully duplicated rows: 0
+Duplicate district names: 0
+Duplicate abbreviations: 0  (all 64 codes are unique, 3 letters each)
+Names with stray leading/trailing spaces: 0
+Non-positive populations or areas: 0
+
+4. Value ranges
+===============
+Variable             Min     Median       Mean         Max    Std dev
+---------------  -------  ---------  ---------  ----------  ---------
+Area (km2)           684      2,084      2,306       6,116      1,184
+Population_1991  246,000  1,545,500  1,741,500   6,164,000  1,086,475
+Population_2001  311,741  1,829,092  2,039,416   9,151,343  1,415,458
+Population_2011  404,091  2,008,954  2,340,193  12,517,360  1,811,774
+Population_2022  495,252  2,215,752  2,653,577  15,210,851  2,203,057
+
+Established: earliest 1666 (Chattogram), latest 1984; 41 of 64 districts share the year 1984.
+
+5. Categories
+=============
+Districts per division:
+Division    Districts
+----------  ---------
+Dhaka              13
+Chattogram         11
+Khulna             10
+Rajshahi            8
+Rangpur             8
+Barisal             6
+Mymensingh          4
+Sylhet              4
+
+6. Consistency checks (passed = good)
+=====================================
+[PASS] Sum of 2022 populations = 169,828,913; this matches the published 2022 census national total (~169.8 million).
+[PASS] Sum of district areas = 147,584 km2; close to Bangladesh's official ~147,570 km2.
+[PASS] Population rose in every district between 1991 and 2001 (0 declines).
+[INFO] Population FELL between 2001 and 2011 in 6 districts: Bagerhat, Khulna, Jhalokati, Barishal, Pirojpur, Gopalganj.
+[INFO] Population FELL between 2011 and 2022 in 1 district: Jhalokati.
+
+7. Issues and cautions found
+============================
+1. PRECISION MISMATCH: all 64 of 64 values in Population_1991 are exact multiples of 1,000
+   (rounded to the nearest thousand). The 2001, 2011 and 2022 columns are exact counts
+   (multiples of 1,000: 0, 0, 0). 1991 growth rates for small districts carry slightly
+   more rounding noise (max error 500 people, about 0.2% of the smallest district).
+2. FILE NAME MISLEADS: it says 'city'; the data are whole districts (which include cities AND rural areas).
+   'Dhaka' means Dhaka District, not just the metropolitan city.
+3. BOUNDARIES ARE FIXED TO TODAY'S MAP: Mymensingh became its own division in 2015 and is shown here for all years.
+   Divisions/districts therefore appear to exist in 1991; this is a back-cast, which makes comparisons consistent.
+4. 'Established' is not a founding date for the place: 41 of 64 districts show 1984 (a nationwide reorganisation).
+   It reflects administrative history, so it is a weak proxy for how old or settled an area is.
+5. MIXED NAME SPELLINGS: modern (Cumilla, Chattogram, Barishal) and older (Jessore, Bogra, Jaipurhat) forms are
+   mixed, and the division is spelled 'Barisal' while the district is 'Barishal'. Join with 'Abbr.' not names.
+6. 'Native' column is Bangla script. Make sure UTF-8 is used when opening the file.
+7. Census intervals are 10, 10 and 11 years in this analysis (nominal). Actual census dates are not in the file.
+8. The data cannot explain WHY populations changed (migration, births, floods, boundary changes).
